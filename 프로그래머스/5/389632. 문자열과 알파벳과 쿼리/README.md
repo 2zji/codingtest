@@ -1,10 +1,10 @@
 # [level 5] 문자열과 알파벳과 쿼리 - 389632 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389632?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389632?language=python3) 
 
 ### 성능 요약
 
-메모리: 718 MB, 시간: 2954.18 ms
+메모리: 192 MB, 시간: 9952.65 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 23일 10:03:03
+2025년 12월 23일 10:06:46
 
 ### 문제 설명
 
