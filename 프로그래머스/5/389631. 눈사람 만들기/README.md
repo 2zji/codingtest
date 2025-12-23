@@ -1,10 +1,10 @@
 # [level 5] 눈사람 만들기 - 389631 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389631?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389631?language=python3) 
 
 ### 성능 요약
 
-메모리: 101 MB, 시간: 120.69 ms
+메모리: 435 MB, 시간: 2655.82 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 22일 17:59:03
+2025년 12월 23일 10:11:55
 
 ### 문제 설명
 
